@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Line
+comment1.params=speed
+comment1.target=Line(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkEnd()
+comment4.params=
+comment4.target=void\ setImg()
+comment5.params=
+comment5.target=void\ createLine()
+comment6.params=
+comment6.target=void\ spawnLine()
+comment7.params=speed
+comment7.target=void\ moveLine(int)
+comment8.params=
+comment8.target=void\ deleteLine()
+numComments=9

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Block
+comment1.params=num\ color\ line\ isSpecial
+comment1.target=Block(int,\ greenfoot.Color,\ Line,\ boolean)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ removeLine()
+comment4.params=
+comment4.target=void\ drawBlock()
+comment5.params=speed
+comment5.target=void\ move(int)
+comment6.params=color
+comment6.target=void\ setColor(greenfoot.Color)
+comment7.params=
+comment7.target=greenfoot.Color\ getColor()
+comment8.params=
+comment8.target=Line\ getLine()
+numComments=9

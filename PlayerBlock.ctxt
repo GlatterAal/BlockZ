@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=PlayerBlock
+comment1.params=
+comment1.target=PlayerBlock()
+comment10.params=color
+comment10.target=void\ getImg(greenfoot.Color)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=start\ end
+comment3.target=int\ getRandomInterval(int,\ int)
+comment4.params=frequenz
+comment4.target=void\ swapColor(int)
+comment5.params=
+comment5.target=void\ setColor()
+comment6.params=
+comment6.target=void\ dash()
+comment7.params=
+comment7.target=void\ checkColor()
+comment8.params=
+comment8.target=void\ checkMovement()
+comment9.params=speed
+comment9.target=void\ move(int)
+numComments=11
